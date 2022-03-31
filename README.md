@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, I'm Valeria Montenegro 🌻</h1>
-<h3 align="center">A curious Full-Stack Web Developer from Ecuador 🇪🇨</h3>
+<h3 align="center">A curious Graphic Designer | Full-Stack Web Developer from Ecuador 🇪🇨</h3>
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/61019494/161110592-a0f94fb2-6e72-44d3-98ce-377a0d65e4ac.gif" width="400" height="400" />
